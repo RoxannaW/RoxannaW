@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://roxannaw.github.io/Portfolio/)
 
-- 🌱 But I'm not stopping just there! **I’m currently learning AWS and improving my knownlegde of Deep Learning**
+- 🌱 But I'm not stopping just there! **I’m currently learning AWS and improving my knowledge of Deep Learning**
 
 - ⚡ Fun fact: **Pro in Google Searches, ask me anything and I will find it🧐**
 
