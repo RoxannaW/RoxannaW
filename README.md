@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, welcome to my Github!👋</h1>
-<h3 align="center">I'm Roxanna, a recently graduated Data Scientist who looking forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and contribute in making amazing products for the world🌍!</h3>
+<h3 align="center"> I'm Roxanna, a recently graduated Data Scientist who looking forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and contribute in making amazing products for the world🌍!</h3>
 
 <br/>
 
@@ -48,7 +48,8 @@
 
 <br/>
 <br/>
-  <h2 align="center"> Github Statistics 📈 </h2>
+
+### My Github Statistics 📈
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxannaw&show_icons=true&locale=en&layout=compact" alt="roxannaw" /></p>
 
