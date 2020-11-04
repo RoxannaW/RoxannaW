@@ -43,11 +43,10 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 
-### Contact with me 📝
+### Connect with me 📝
 <p align="left">
 <a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"/>
-<a href="https://codesandbox.com/roxanna wijtsma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="roxanna wijtsma" height="30" width="40" /></a>
-</p>
+
 
 
 
