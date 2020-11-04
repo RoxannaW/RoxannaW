@@ -13,7 +13,7 @@
 
 - 🌱 But I'm not stopping just there! **I’m currently learning AWS and improving my knowledge of Deep Learning**
 
-- ⚡ Fun fact: **Pro in Google Searches, ask me anything and I will find it🧐**
+- ⚡ Fun fact: **I'm a pro in Google Searches, ask me anything and I will find it🧐**
 
 - 📫 Interested in getting to know me? Don't be shy, let's connect on [Linkedin](https://www.linkedin.com/in/roxannawijtsma/) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
