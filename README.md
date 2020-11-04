@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, welcome to my Github!👋</h1>
-<h3 align="center">I'm Roxanna, a recently graduated Data Scientist who is excited to apply her knowledge in real-world business problems.</h3>
+<h3 align="center">I'm Roxanna, a recently graduated Data Scientist who looking forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</h3>
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -62,7 +62,8 @@
 ### Connect with me 📝
 <p align="left">
 <a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" </a> </p>
-
 <br/>
+  
+
 
 
