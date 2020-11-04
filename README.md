@@ -15,12 +15,13 @@
 - 📫 Interested in getting to know me? Don't be shy, let's connect on [Linkedin](https://www.linkedin.com/in/roxannawijtsma/) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 ---
-<!--START_SECTION:waka-->
+<!--START_SECTION:readme-info-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxannaw&label=Profile%20views&color=0e75b6&style=flat" alt="roxannaw" /> </p>
 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
-
+<!--END_SECTION:readme-info-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
