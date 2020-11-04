@@ -64,9 +64,8 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 
-<h3 align="center"> Let's Connect!</h3>
-<p>
-<a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" </a> </p>
+### Let's Connect!
+<p><a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="centre" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" </a> </p>
 <br/>
   
 
