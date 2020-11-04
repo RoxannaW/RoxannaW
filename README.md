@@ -56,7 +56,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxannaw&show_icons=true&locale=en&layout=compact" alt="roxannaw" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=roxannaw&show_icons=true&locale=en" alt="roxannaw" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=roxannaw&show_icons=true&locale=en" alt="roxannaw" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxannaw&label=Profile%20views&color=0e75b6&style=flat" alt="roxannaw" /> </p>
 
