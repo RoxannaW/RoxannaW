@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, welcome to my Github!👋</h1>
 <h3 align="center"> I'm Roxanna, a recently graduated Data Scientist who looking forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and contribute in making amazing products for the world🌍!</h3>
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <br/>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -53,7 +55,8 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roxannaw&show_icons=true&locale=en&layout=compact" alt="roxannaw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxannaw&show_icons=true&locale=en" alt="roxannaw" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=roxannaw&show_icons=true&locale=en" alt="roxannaw" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxannaw&label=Profile%20views&color=0e75b6&style=flat" alt="roxannaw" /> </p>
 
@@ -61,7 +64,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 
-### Connect with me 📝
+### Let's Connect! 📝
 <p align="left">
 <a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" </a> </p>
 <br/>
