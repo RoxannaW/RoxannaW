@@ -37,13 +37,6 @@
 
 <!--END_SECTION:waka-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roxannaw&label=Profile%20views&color=0e75b6&style=flat" alt="roxannaw" /> </p>
-
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
-
-
-
 <br/>
 <br/>
 
@@ -58,9 +51,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxannaw&show_icons=true&locale=en" alt="roxannaw" /></p>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roxannaw&label=Profile%20views&color=0e75b6&style=flat" alt="roxannaw" /> </p>
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+
+
 ### Connect with me 📝
-<br/>
 <p align="left">
 <a href="https://www.linkedin.com/in/roxannawijtsma/" target="blank"><img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" </a> </p>
 
