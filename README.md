@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, welcome to my Github!👋</h1>
 <h3 align="center"> I'm Roxanna, a recently graduated Data Scientist who is looking forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and contribute in making amazing products for the world🌍!</h3>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="foto1.JPG" width="230">
 
 <br/>
 
